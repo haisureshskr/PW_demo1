@@ -8,15 +8,15 @@
 //     console.log(i)
 // }
 
-// let browsers: string[]=["chromium","firefox","webkit"]
-// for (let i:number=0;i<browsers.length;i++)
-// {
-//     console.log(browsers[i])
-// }
+let browsers: string[]=["chromium","firefox","webkit"]
+for (let i:number=0;i<browsers.length;i++)
+{
+     console.log(browsers[i])
+ }
 
-// for(let browser of browsers){
-//     console.log(browser)
-// }
+ for(let browser of browsers){
+     console.log(browser)
+ }
 
 
 // let retries: number=3
