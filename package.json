@@ -13,6 +13,17 @@
   "author": "anuradha",
   "license": "ISC",
   "devDependencies": {
-    "typescript": "^6.0.2"
-  }
+    "@types/node": "^26.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuradha-learn/typescript-fundamental.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anuradha-learn/typescript-fundamental/issues"
+  },
+  "homepage": "https://github.com/anuradha-learn/typescript-fundamental#readme"
 }

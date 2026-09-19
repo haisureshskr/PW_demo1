@@ -1,4 +1,4 @@
-let age1 = 20
+let age1 = 15
 if (age1 >= 18) {
     console.log("Access granted")
 }
@@ -6,7 +6,7 @@ else {
     console.log("fail")
 }
 
-let marks = 82
+let marks = 10
 if (marks >= 90) {
     console.log("Grade A")
 }
